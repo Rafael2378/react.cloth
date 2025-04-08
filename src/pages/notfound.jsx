@@ -1,6 +1,6 @@
 import React from "react";
 
 export const NotFound = () => { 
-    // hgh
+    // hgh  
     return <h1>404 not found</h1>;
 };
